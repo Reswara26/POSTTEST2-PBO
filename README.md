@@ -18,9 +18,9 @@ Program ini dibangun menggunakan struktur **multi-class dan multi-package**, ser
 ## Struktur Packages
 Program ini dibagi menjadi 3 package utama:
 
-- `model` → berisi class `Armada.java` yang menyimpan struktur data pesawat  
-- `service` → berisi class `ArmadaService.java` yang menangani logika CRUD dan pencarian  
-- `main` → berisi class `Main.java` sebagai entry point dan menu interaktif untuk pengguna
+- `model` => berisi class `Armada.java` yang menyimpan struktur data pesawat  
+- `service` => berisi class `ArmadaService.java` yang menangani logika CRUD dan pencarian  
+- `main` => berisi class `Main.java` sebagai entry point dan menu interaktif untuk pengguna
 
 ## Fitur Program
 1. **Tambah Armada** – Menambahkan data pesawat baru  

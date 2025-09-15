@@ -4,9 +4,9 @@
 Program ini adalah aplikasi berbasis Java untuk mengelola data armada pesawat.  
 Data yang dikelola meliputi:
 
-- ID Pesawat  
-- Tipe Pesawat  
-- Kapasitas Maksimal Penumpang  
+- ID Pesawat
+- Tipe Pesawat
+- Kapasitas Maksimal Penumpang
 
 Program ini dibangun menggunakan struktur **multi-class dan multi-package**, serta sudah menerapkan:
 

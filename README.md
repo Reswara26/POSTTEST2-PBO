@@ -33,7 +33,7 @@ Program ini dibagi menjadi 3 package utama:
 ## Penjelasan Alur Program
 
 ### Menu Utama
-Saat saya menjalankan program, saya langsung melihat 6 pilihan menu:
+Saat program dijalankan, pengguna akan melihat 6 pilihan menu:
 1. Tambah Armada
 2. Lihat Armada
 3. Ubah Armada

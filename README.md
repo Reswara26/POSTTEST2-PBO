@@ -30,7 +30,7 @@ Program ini sudah menerapkan **MVC**, yang memisahkan peran masing-masing kompon
   Menyimpan struktur data pesawat, termasuk atribut dan constructor.
 
 - **View** (`main.Main.java`)  
-  Menyediakan antarmuka pengguna berupa menu interaktif dan input/output melalui console.
+  Menyediakan antarmuka pengguna berupa menu interaktif dan input/output.
 
 - **Controller** (`service.ArmadaService.java`)  
   Menangani logika program seperti tambah, ubah, hapus, tampilkan, dan cari data armada.  

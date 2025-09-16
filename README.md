@@ -1,4 +1,9 @@
 # POSTTEST2-PBO
+Nama: Reswara Ganendra Rashi Dewa
+
+Kelas: C 2024
+
+NIM: 2409116100
 
 ## Deskripsi Singkat Program
 Program ini adalah aplikasi berbasis Java untuk mengelola data armada pesawat.  

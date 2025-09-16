@@ -22,6 +22,22 @@ Program ini dibagi menjadi 3 package utama:
 - `service` => berisi class `ArmadaService.java` yang menangani logika CRUD dan pencarian  
 - `main` => berisi class `Main.java` sebagai entry point dan menu interaktif untuk pengguna
 
+## Penerapan MVC (Model–View–Controller)
+
+Program ini sudah menerapkan **MVC**, yang memisahkan peran masing-masing komponen:
+
+- **Model** (`model.Armada.java`)  
+  Menyimpan struktur data pesawat, termasuk atribut dan constructor.
+
+- **View** (`main.Main.java`)  
+  Menyediakan antarmuka pengguna berupa menu interaktif dan input/output melalui console.
+
+- **Controller** (`service.ArmadaService.java`)  
+  Menangani logika program seperti tambah, ubah, hapus, tampilkan, dan cari data armada.  
+  Juga bertanggung jawab atas validasi input dan pengolahan data.
+
+Dengan struktur ini, program menjadi lebih terorganisir dan mudah dikembangkan di masa depan.
+
 ## Fitur Program
 1. **Tambah Armada** – Menambahkan data pesawat baru  
 2. **Lihat Armada** – Menampilkan seluruh data pesawat yang tersimpan  
